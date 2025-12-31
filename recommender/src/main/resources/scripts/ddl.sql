@@ -1,1 +1,1 @@
-create database recommender;
+select * from journeys

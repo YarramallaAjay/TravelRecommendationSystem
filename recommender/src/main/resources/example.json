@@ -1,0 +1,928 @@
+{
+  "status": true,
+  "timestamp": 1767164110806,
+  "data": [
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "22160",
+      "trainName": "MGR Chennai Central - Mumbai CSMT SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "36:30",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        },
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        }
+      ]
+    },
+    {
+      "trainType": "VANDE BHARAT EXPRESS",
+      "trainNumber": "22226",
+      "trainName": "Vande Bharat Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": false,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "12:35",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "EC",
+          "name": "Executive Class"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        }
+      ]
+    },
+    {
+      "trainType": "VANDE BHARAT EXPRESS",
+      "trainNumber": "20706",
+      "trainName": "Mumbai CSMT - Hazur Sahib Nanded Vande Bharat Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": false,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "13:10",
+      "classes": [
+        {
+          "value": "EC",
+          "name": "Executive Class"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "22731",
+      "trainName": "HYDERABAD DECAN - MUMBAI CSMT SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "37:05",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        }
+      ]
+    },
+    {
+      "trainType": "ANYD",
+      "trainNumber": "12598",
+      "trainName": "Antyodaya Express",
+      "runDays": {
+        "sun": false,
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "13:30",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "12321",
+      "trainName": "Howrah - Mumbai CSMT SF Mail",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "61:15",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11019",
+      "trainName": "Konark Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "14:00",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "22732",
+      "trainName": "Mumbai CSMT - Hyderabad Deccan SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "14:10",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11012",
+      "trainName": "Dhule - Mumbai CSMT Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "14:15",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        },
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "12139",
+      "trainName": "Sewagram SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "14:55",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "22159",
+      "trainName": "Mumbai CSMT - MGR Chennai Central SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "12:45",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        }
+      ]
+    },
+    {
+      "trainType": "RAJDHANI",
+      "trainNumber": "22221",
+      "trainName": "Mumbai CSMT - Hazrat Nizamuddin Rajdhani Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "16:00",
+      "classes": [
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "12125",
+      "trainName": "Pragati SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "16:25",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        },
+        {
+          "value": "EV",
+          "name": null
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11001",
+      "trainName": "Nandigram Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "16:35",
+      "classes": [
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "12123",
+      "trainName": "Deccan Queen Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "17:10",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        },
+        {
+          "value": "EV",
+          "name": null
+        }
+      ]
+    },
+    {
+      "trainType": "JAN SHATABDI",
+      "trainNumber": "12072",
+      "trainName": "Hingoli (Deccan) - Mumbai CSMT Jan Shatabdi Express ",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "16:50",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        }
+      ]
+    },
+    {
+      "trainType": "DURONTO",
+      "trainNumber": "12261",
+      "trainName": "Duronto Express",
+      "runDays": {
+        "sun": true,
+        "mon": false,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": false,
+        "sat": false
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "17:15",
+      "classes": [
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11009",
+      "trainName": "Sinhagad Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "17:50",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "12109",
+      "trainName": "Panchavati Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "18:15",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "17612",
+      "trainName": "Rajya Rani Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "18:45",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        },
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "12105",
+      "trainName": "Vidarbha SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "19:05",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11008",
+      "trainName": "Deccan Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "19:15",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        },
+        {
+          "value": "EV",
+          "name": null
+        }
+      ]
+    },
+    {
+      "trainType": "SUPERFAST",
+      "trainNumber": "12137",
+      "trainName": "Punjab Mail ",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "19:35",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "16340",
+      "trainName": "Nagercoil - Mumbai CSMT Express",
+      "runDays": {
+        "sun": false,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": false,
+        "fri": true,
+        "sat": false
+      },
+      "arrivalTime": "43:05",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "12289",
+      "trainName": "Duronto Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "19:55",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "12111",
+      "trainName": "MUMBAI CSMT - AMRAVATI SF Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "20:10",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "17411",
+      "trainName": "Mahalaxmi Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "00:00",
+      "departureTime": "20:20",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11302",
+      "trainName": "Udyan Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "44:15",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "3E",
+          "name": "3 AC Economy"
+        }
+      ]
+    },
+    {
+      "trainType": "MAIL EXPRESS",
+      "trainNumber": "11030",
+      "trainName": "Koyna Express",
+      "runDays": {
+        "sun": true,
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true
+      },
+      "arrivalTime": "20:05",
+      "departureTime": "00:00",
+      "classes": [
+        {
+          "value": "2S",
+          "name": "Second Seating"
+        },
+        {
+          "value": "CC",
+          "name": "AC Chair Car"
+        },
+        {
+          "value": "SL",
+          "name": "CLASS - Sleeper"
+        },
+        {
+          "value": "3A",
+          "name": "Third AC"
+        },
+        {
+          "value": "1A",
+          "name": "First AC"
+        },
+        {
+          "value": "2A",
+          "name": "Second AC"
+        }
+      ]
+    }
+  ]
+}
