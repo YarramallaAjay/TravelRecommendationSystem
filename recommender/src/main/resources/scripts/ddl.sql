@@ -195,7 +195,6 @@ CREATE TABLE journeys (
                                                                           'CANCELLED', 'COMPLETED'
                               )),
                           CONSTRAINT chk_journey_type CHECK (journey_type IN ('SINGLE_TRAIN', 'MULTI_TRAIN')),
-                          CONSTRAINT chk_journey_date CHECK (journey_date >= CURRENT_DATE),
                           CONSTRAINT chk_total_fare CHECK (total_fare IS NULL OR total_fare >= 0),
                           CONSTRAINT chk_travel_time CHECK (total_travel_time_minutes IS NULL OR total_travel_time_minutes > 0),
                           CONSTRAINT chk_layover CHECK (total_layover_minutes >= 0)
